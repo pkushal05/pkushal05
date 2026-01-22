@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I'm currently working on building scalable full stack web applications with MERN stack.<br>👯 I'm looking to collaborate on MERN stack projects, API development, and modern web applications.<br>🤝 I'm looking for help with DevOps, CI/CD pipelines, and performance optimization.<br>🌱 I'm currently learning Typescript, Angular, Next.js and AWS cloud services.<br>💬 Ask me about building responsive web pages.<br>⚡ Fun fact: I know how to center a div 😎
+⚡ Fun fact: I know how to center a div 😎
 
 
 ## 🌐 Socials:
